@@ -23,6 +23,6 @@ def last_evaluated_value(phrase="expert")
 return phrase
 end
 
-def pizza_party(phrase=)
-
+def pizza_party(phrase="cheese")
+return phrase
 end
